@@ -1,7 +1,8 @@
 # Hello 👋, I'm Jamila
 ### Full-Stack Web Developer
 
-Full-Stack Developer & Software Specialist
+Full-Stack Developer & Software Specialist 
+
 Global Minecraft Topluluğu
 https://mc-lounge.com
 Sunucunuzu öne taşıyın
