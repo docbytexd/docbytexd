@@ -4,7 +4,8 @@
 Full-Stack Developer & Software Specialist 
 
 Global Minecraft Topluluğu
-https://mc-lounge.com
+https://mc-lounge.com 
+
 Sunucunuzu öne taşıyın
 https://areofy.net
 
