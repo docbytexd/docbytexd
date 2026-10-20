@@ -1,7 +1,9 @@
 # Hello 👋, I'm Jamila
 ### Full-Stack Web Developer
 
-Full-Stack Web Developer @ Areofy
+Full-Stack Developer & Software Specialist
+Global Minecraft Topluluğu
+https://mc-lounge.com
 Sunucunuzu öne taşıyın
 https://areofy.net
 
