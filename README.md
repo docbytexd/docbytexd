@@ -6,7 +6,7 @@ Sunucunuzu öne taşıyın
 https://areofy.net
 
 İletişim ve talepleriniz için:
-`↗` https://areofy.net/contact
+`↗` [Discord Adresim Tıkla](https://discord.com/users/1073895209299103764)
 
 ## Contact Me
 <p><a href="https://areofy.net" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://instagram.com/@areofynet" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://instagram.com/@areofynet" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
