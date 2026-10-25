@@ -4,16 +4,16 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=1E90FF&center=true&vCenter=true&width=700&lines=Building+things+since+2020.;Backend+%E2%80%A2+APIs+%E2%80%A2+Minecraft;TypeScript+%E2%80%A2+Java+%E2%80%A2+Node.js;Turning+ideas+into+real+products." />
 </a>
 <br><br>
-<a href="https://nexuby.net.tr">
-<img src="https://img.shields.io/badge/NEXUBY-1a3a6b?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+<a href="https://minevia.net">
+<img src="https://img.shields.io/badge/Minevia-1a3a6b?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
-<a href="https://github.com/Rynix01">
+<a href="https://github.com/docbytexd">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://youtube.com/@rynixdev">
+<a href="https://youtube.com/@cankalucc">
 <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-<a href="https://discord.com/users/1028771305505423370">
+<a href="https://discord.com/users/1073895209299103764">
 <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </div>
@@ -31,20 +31,20 @@ focus:
   - Infrastructure
   - Product Development
 currently_building:
-  - Nexuby
-  - MCAPI.TR
-  - MCTOOLS.TR
+  - areofy.net
+  - minevia.net
+  - mc-lounge.com
 languages:
   - TypeScript
   - JavaScript
   - Java
-  - Python
+  - Nodejs
 motto: "Build it. Break it. Understand it. Build it better."
 ```
 <br>
 
 ## ⚡ About Me
-I've been building software since **2020**.
+I've been building software since **2022**.
 What started with Discord bots eventually turned into backend systems, web applications, Minecraft plugins, APIs, infrastructure and complete software products.
 I enjoy working on projects where I can control the entire architecture — from the backend and database to deployment and production infrastructure.
 Today, most of my work revolves around **Nexuby Software Services** and products built for developers, Minecraft communities and server owners.
@@ -68,13 +68,13 @@ Today, most of my work revolves around **Nexuby Software Services** and products
 <tr>
 <td width="50%" valign="top">
 
-### 🔵 Nexuby
-Software products, developer tools and Minecraft-related systems.
+### 🔵 Areofy
+Game server web software cms.
 
 **Focus**
 `Software` `Minecraft` `Web` `Infrastructure`
 
-🌐 **[nexuby.net.tr](https://nexuby.net.tr)**
+🌐 **[areofy.net](https://areofy.net)**
 </td>
 <td width="50%" valign="top">
 
@@ -134,7 +134,7 @@ Connecting Minecraft servers with Discord communities.
 
 ## 💬 Discord
 <div align="center">
-<a href="https://discord.com/users/1028771305505423370">
+<a href="https://discord.com/users/1073895209299103764">
 <img src="https://lanyard.cnrad.dev/api/1028771305505423370?theme=dark&bg=111111&borderRadius=12px&idleMessage=Probably%20building%20something..." />
 </a>
 </div>
