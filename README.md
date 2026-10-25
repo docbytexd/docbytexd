@@ -92,7 +92,7 @@ Minecraft server trapvp gamemode plugin.
 ## 💬 Discord
 <div align="center">
 <a href="https://discord.com/users/1073895209299103764">
-<img src="https://lanyard.cnrad.dev/api/1073895209299103764?hideStatus=true&hideTag=true&hideProfile=true&hideSpotify=true&hideActivity=true&hideBadges=true&hideTimestamp=true&hideDecoration=true&showDisplayName=true"/>
+<img src="https://lanyard.cnrad.dev/api/1073895209299103764?showDisplayName=true"/>
 </a>
 
 </div>
