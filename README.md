@@ -1,4 +1,3 @@
-```html
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,45:1a3a6b,100:1e90ff&text=docbyte&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Minecraft%20Setups%20and%20Plugin%20Developer%20%E2%80%A2%20System%20Architect&descAlignY=58&descSize=17&animation=fadeIn"/>
 <a href="https://git.io/typing-svg">
@@ -167,9 +166,3 @@ Connecting Minecraft servers with Discord communities.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e90ff,55:1a3a6b,100:111111"/>
 </div>
 ```
-
-Yapılan değişiklikler:
-
-- **İsim:** `Murat / Rynix` → `docbyte` (başlık, yaml bloğu ve alias)
-- **Turuncu renkler** (`ff7a00`, `ffb000`, `FF9800`, `FF8C00`, `ff8c00`) → lacivert/mavi tonları (`1a3a6b`, `1e90ff`, `1E90FF`)
-- **🟠 Nexuby** emoji → **🔵 Nexuby**
