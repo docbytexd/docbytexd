@@ -78,55 +78,12 @@ Game server web software cms.
 </td>
 <td width="50%" valign="top">
 
-### ⚡ MCAPI.TR
-High-performance Minecraft server status API built for simple integrations and high request volumes.
-
-**Stack**
-`TypeScript` `Fastify` `API`
-
-🌐 **[MCAPI.TR](https://mcapi.tr)**
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧰 MCTOOLS.TR
-Browser-based tools designed for Minecraft players, developers and server owners.
-
-**Focus**
-`Minecraft` `Tools` `Web`
-
-🌐 **[MCTOOLS.TR](https://mctools.tr)**
-</td>
-<td width="50%" valign="top">
-
-### 🛒 NexAuctionHouse
-A modern marketplace and auction system built for Minecraft servers.
-
-**Features**
-`BIN` `Bidding` `Redis` `Multiple Databases` `Multi Economy`
-
-🌐 **[Repo](https://github.com/Rynix01/NexAuctionHouse)**
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 NexHomes
-Flexible homes system designed for modern Minecraft servers.
-
-`Java` `Paper API`
-
-🌐 **[SpigotMC](https://www.spigotmc.org/resources/nexhomes-%E2%9C%A8-gui-hex-colors-icons-mysql-more.130365/)**
-</td>
-<td width="50%" valign="top">
-
-### 🔗 NexDiscordLink
-Connecting Minecraft servers with Discord communities.
+### 🔗 xTrapPlugin
+Minecraft server trapvp gamemode plugin.
 
 `Java` `Discord` `Minecraft`
 
-🌐 **[SpigotMC](https://www.spigotmc.org/resources/nexdiscordlink-advanced-discord-link-plugin.130935/)**
+🌐 **[Github](https://github.com/docbytexd)**
 </td>
 </tr>
 </table>
@@ -135,23 +92,23 @@ Connecting Minecraft servers with Discord communities.
 ## 💬 Discord
 <div align="center">
 <a href="https://discord.com/users/1073895209299103764">
-<img src="https://lanyard.cnrad.dev/api/1028771305505423370?theme=dark&bg=111111&borderRadius=12px&idleMessage=Probably%20building%20something..." />
+<img src="https://lanyard.cnrad.dev/api/1073895209299103764?theme=dark&bg=111111&borderRadius=12px&idleMessage=Probably%20building%20something..." />
 </a>
 </div>
 <br>
 
 ## 📈 Development
 <div align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rynix01&theme=github_dark"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rynix01&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=docbytexd&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=docbytexd&theme=github_dark"/>
 <br>
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rynix01&theme=github_dark"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=docbytexd&theme=github_dark"/>
 </div>
 <br>
 
 ## 👀 Visitors
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Rynix01&label=PROFILE+VIEWS&color=1a3a6b&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=docbytexd&label=PROFILE+VIEWS&color=1a3a6b&style=for-the-badge"/>
 </div>
 <br>
 
