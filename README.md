@@ -1,57 +1,175 @@
-# Hello 👋, I'm Jamila
-### Full-Stack Web Developer
+```html
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,45:1a3a6b,100:1e90ff&text=docbyte&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Minecraft%20Setups%20and%20Plugin%20Developer%20%E2%80%A2%20System%20Architect&descAlignY=58&descSize=17&animation=fadeIn"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=1E90FF&center=true&vCenter=true&width=700&lines=Building+things+since+2020.;Backend+%E2%80%A2+APIs+%E2%80%A2+Minecraft;TypeScript+%E2%80%A2+Java+%E2%80%A2+Node.js;Turning+ideas+into+real+products." />
+</a>
+<br><br>
+<a href="https://nexuby.net.tr">
+<img src="https://img.shields.io/badge/NEXUBY-1a3a6b?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+</a>
+<a href="https://github.com/Rynix01">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://youtube.com/@rynixdev">
+<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://discord.com/users/1028771305505423370">
+<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+</div>
+<br>
 
-Full-Stack Developer & Software Specialist 
+## `> whoami`
+```yaml
+name: docbyte
+alias: docbyte
+location: Türkiye
+focus:
+  - Backend Development
+  - Minecraft Development
+  - APIs & Web Services
+  - Infrastructure
+  - Product Development
+currently_building:
+  - Nexuby
+  - MCAPI.TR
+  - MCTOOLS.TR
+languages:
+  - TypeScript
+  - JavaScript
+  - Java
+  - Python
+motto: "Build it. Break it. Understand it. Build it better."
+```
+<br>
 
-Global Minecraft Topluluğu
-https://mc-lounge.com 
+## ⚡ About Me
+I've been building software since **2020**.
+What started with Discord bots eventually turned into backend systems, web applications, Minecraft plugins, APIs, infrastructure and complete software products.
+I enjoy working on projects where I can control the entire architecture — from the backend and database to deployment and production infrastructure.
+Today, most of my work revolves around **Nexuby Software Services** and products built for developers, Minecraft communities and server owners.
+<br>
+<div align="center">
 
-Sunucunuzu öne taşıyın
-https://areofy.net
+### 🧰 Tech Arsenal
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,java,python,nextjs,express,mongodb,mysql,postgres,redis,docker,linux,cloudflare,git,github&perline=8" />
+<br><br>
+<img src="https://img.shields.io/badge/Paper_API-Minecraft-62B47A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Velocity-Proxy-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Fastify-Backend-111111?style=flat-square&logo=fastify"/>
+<img src="https://img.shields.io/badge/REST-APIs-1E90FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Redis-Caching-DC382D?style=flat-square&logo=redis"/>
+<img src="https://img.shields.io/badge/Linux-Production-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</div>
+<br>
 
-İletişim ve talepleriniz için:
-`↗` [Discord Adresim Tıkla](https://discord.com/users/1073895209299103764)
+## 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Contact Me
-<p><a href="https://areofy.net" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://instagram.com/@areofynet" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a> <a href="https://instagram.com/@areofynet" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+### 🔵 Nexuby
+Software products, developer tools and Minecraft-related systems.
 
-## Skills
+**Focus**
+`Software` `Minecraft` `Web` `Infrastructure`
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-</p>
+🌐 **[nexuby.net.tr](https://nexuby.net.tr)**
+</td>
+<td width="50%" valign="top">
 
-## Projects
+### ⚡ MCAPI.TR
+High-performance Minecraft server status API built for simple integrations and high request volumes.
 
-### Areofy
+**Stack**
+`TypeScript` `Fastify` `API`
 
-<img src="https://media.discordapp.net/attachments/1539385667056832543/1539385787542675496/Logo-Text-Beyaz.png?ex=6a969afc&is=6a95497c&hm=21d2b787618bb40fb5cc16256c5df5842834d41e41a92a19ac14f1ed457d5593&=&format=webp&quality=lossless&width=512&height=512" alt="Areofy" width="300"/>
+🌐 **[MCAPI.TR](https://mcapi.tr)**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Areofy offers gaming and e-commerce websites. It is known for its innovative solutions, striking themes, and customer satisfaction.
+### 🧰 MCTOOLS.TR
+Browser-based tools designed for Minecraft players, developers and server owners.
 
-[View Project](https://areofy.net)
+**Focus**
+`Minecraft` `Tools` `Web`
+
+🌐 **[MCTOOLS.TR](https://mctools.tr)**
+</td>
+<td width="50%" valign="top">
+
+### 🛒 NexAuctionHouse
+A modern marketplace and auction system built for Minecraft servers.
+
+**Features**
+`BIN` `Bidding` `Redis` `Multiple Databases` `Multi Economy`
+
+🌐 **[Repo](https://github.com/Rynix01/NexAuctionHouse)**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 NexHomes
+Flexible homes system designed for modern Minecraft servers.
+
+`Java` `Paper API`
+
+🌐 **[SpigotMC](https://www.spigotmc.org/resources/nexhomes-%E2%9C%A8-gui-hex-colors-icons-mysql-more.130365/)**
+</td>
+<td width="50%" valign="top">
+
+### 🔗 NexDiscordLink
+Connecting Minecraft servers with Discord communities.
+
+`Java` `Discord` `Minecraft`
+
+🌐 **[SpigotMC](https://www.spigotmc.org/resources/nexdiscordlink-advanced-discord-link-plugin.130935/)**
+</td>
+</tr>
+</table>
+<br>
+
+## 💬 Discord
+<div align="center">
+<a href="https://discord.com/users/1028771305505423370">
+<img src="https://lanyard.cnrad.dev/api/1028771305505423370?theme=dark&bg=111111&borderRadius=12px&idleMessage=Probably%20building%20something..." />
+</a>
+</div>
+<br>
+
+## 📈 Development
+<div align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rynix01&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rynix01&theme=github_dark"/>
+<br>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rynix01&theme=github_dark"/>
+</div>
+<br>
+
+## 👀 Visitors
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Rynix01&label=PROFILE+VIEWS&color=1a3a6b&style=for-the-badge"/>
+</div>
+<br>
 
 ---
+<div align="center">
 
-## GitHub Stats
+### `while (alive) { build(); learn(); improve(); }`
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamilaaxd&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
+**Thanks for stopping by.**
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1e90ff,55:1a3a6b,100:111111"/>
+</div>
+```
+
+Yapılan değişiklikler:
+
+- **İsim:** `Murat / Rynix` → `docbyte` (başlık, yaml bloğu ve alias)
+- **Turuncu renkler** (`ff7a00`, `ffb000`, `FF9800`, `FF8C00`, `ff8c00`) → lacivert/mavi tonları (`1a3a6b`, `1e90ff`, `1E90FF`)
+- **🟠 Nexuby** emoji → **🔵 Nexuby**
