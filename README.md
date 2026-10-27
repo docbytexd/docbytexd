@@ -47,7 +47,7 @@ motto: "Build it. Break it. Understand it. Build it better."
 I've been building software since **2022**.
 What started with Discord bots eventually turned into backend systems, web applications, Minecraft plugins, APIs, infrastructure and complete software products.
 I enjoy working on projects where I can control the entire architecture — from the backend and database to deployment and production infrastructure.
-Today, most of my work revolves around **Nexuby Software Services** and products built for developers, Minecraft communities and server owners.
+Today, most of my work revolves around **Wendocs Software** and products built for developers, Minecraft communities and server owners.
 <br>
 <div align="center">
 
